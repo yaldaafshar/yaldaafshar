@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 My projects: 
   - Training material for web development using Django: [link](https://github.com/yaldaafshar/onboarding/blob/training/training%20material.md)
-  - Group project: [A web application for connecting contractors with home owners](link)
+  - Group project: [A web application for connecting contractors with home owners](https://github.com/yaldaafshar/teamwork)
 - 📫 How to reach me: 
   - yalda DOT afshar AT ucalgary.ca 
   - [LinkedIn](https://www.linkedin.com/in/yalda-afshar-823a60a7/)
