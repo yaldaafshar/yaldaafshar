@@ -4,7 +4,7 @@
   - Group project: [A web application for connecting contractors with home owners](https://github.com/yaldaafshar/teamwork)
   - An online shop project, implementing step by step with the Zero to mastery academy capstone project online resources. [Online Shop](https://github.com/yaldaafshar/OnlineShop)
 - 📫 How to reach me: 
-  - yalda DOT afshar AT ucalgary.ca 
+  - yalda DOT afshar AT gmail.com
   - [LinkedIn](https://www.linkedin.com/in/yalda-afshar-823a60a7/)
 <!--
 **yaldaafshar/yaldaafshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
