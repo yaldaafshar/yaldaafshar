@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 My projects: 
   - Training material for web development using Django: [Link](https://github.com/yaldaafshar/onboarding/blob/training/training%20material.md)
-  - Group project: [A web application for connecting contractors with home owners](https://github.com/yaldaafshar/teamwork)
+  - Course Group project: [A web application for connecting contractors with home owners](https://github.com/yaldaafshar/teamwork)
   - An online shop project, implementing step by step with the Zero to mastery academy capstone project online resources. [Online Shop](https://github.com/yaldaafshar/OnlineShop)
 - 📫 How to reach me: 
   - yalda DOT afshar AT gmail.com
